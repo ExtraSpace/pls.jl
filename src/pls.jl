@@ -1,4 +1,4 @@
-module pls.jl
+module pls
 
 using StatsBase
 using Distributions
